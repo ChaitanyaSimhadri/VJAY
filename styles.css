@@ -3,10 +3,10 @@
     margin: 0;
     padding: 0;
 }
+
 html {
   scroll-behavior: smooth;
 }
-
 
 
 
@@ -370,4 +370,3 @@ html {
     margin-bottom: 20px;
   }
 }
-
